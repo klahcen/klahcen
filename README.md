@@ -1,9 +1,9 @@
-<!-- # Hey, I am Radouane! Great to see you here! <img src="/src/wave.gif" width="30px">
+<!-- # Hey, I am Lahcen! Great to see you here! <img src="/src/wave.gif" width="30px">
 
 <img src="/src/header_.png">
  -->
 
-### <div align="center">Hi 👋, I'm Radouane 🙋‍♂️ currently I'm a Computer Science Student and Web Developper 🐱‍💻.</div>
+### <div align="center">Hi 👋, I'm Lahcen 🙋‍♂️ currently I'm a Computer Science Student 🐱‍💻.</div>
 
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
