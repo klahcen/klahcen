@@ -7,7 +7,7 @@
 
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
-
+# 42 Cursus
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/lkazaz" alt="lkazaz's 42 stats" /></a>
  
 <p align="center">
