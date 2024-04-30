@@ -2,13 +2,14 @@
 
 <img src="/src/header_.png">
  -->
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ysaber" alt="ysaber's 42 stats" /></a>
 
 ### <div align="center">Hi 👋, I'm Lahcen 🙋‍♂️ currently I'm a Computer Science Student 🐱‍💻.</div>
 
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
 
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ysaber" alt="ysaber's 42 stats" /></a>
+ 
 <p align="center">
 	<a href="https://ma.linkedin.com/in/lahcen-kazaz-9660981a8/fr">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
