@@ -2,6 +2,7 @@
 
 <img src="/src/header_.png">
  -->
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ysaber" alt="ysaber's 42 stats" /></a>
 
 ### <div align="center">Hi 👋, I'm Lahcen 🙋‍♂️ currently I'm a Computer Science Student 🐱‍💻.</div>
 
