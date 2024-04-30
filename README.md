@@ -11,9 +11,7 @@
 
 <center><a href="https://github.com/oakoudad/badge42"><img src="https://camo.githubusercontent.com/736b9f1aa061e2e9dd5b9e9f43784e2ffaee637923860e5e987715511a989b16/68747470733a2f2f62616467652e6d65646961706c75732e6d612f677265656e62696e6172792f6c6b617a617a" alt="lkazaz's 42 stats" data-canonical-src="https://badge.mediaplus.ma/greenbinary/lkazaz" style="max-width: 100%;"></a></center>
 
-<center> 
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/lkazaz" alt="lkazaz's 42 stats" /></a>
-</center>
+
  
 <p align="center">
 	<a href="https://ma.linkedin.com/in/lahcen-kazaz-9660981a8/fr">
