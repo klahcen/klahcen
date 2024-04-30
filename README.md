@@ -8,7 +8,7 @@
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
 
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ysaber" alt="ysaber's 42 stats" /></a>
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/lkazaz" alt="ysaber's 42 stats" /></a>
  
 <p align="center">
 	<a href="https://ma.linkedin.com/in/lahcen-kazaz-9660981a8/fr">
