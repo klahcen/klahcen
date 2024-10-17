@@ -3,7 +3,7 @@
 <img src="/src/header_.png">
  -->
 
-### <div align="center">Hi 👋, I'm Lahcen 🙋‍♂️ currently I'm a Computer Science Student 🐱‍💻.</div>
+### <div align="center">Hi 👋, I'm Lahcen 🙋‍♂️ And I'm a Computer Science Student 🐱‍💻.</div>
 
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
