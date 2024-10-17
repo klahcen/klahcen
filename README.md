@@ -59,12 +59,7 @@
 
 ## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=klahcen&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=klahcen&hide_border=true&theme=radical" />
-<!--   <img alt="most used languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klahcen&count_private=true&show_icons=true&hide_border=true&theme=radical&langs_count=20&hide=hack,swift,kotlin,objective-c,markdow&layout=compact"/> -->
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klahcen&theme=blue_green "Profile Details")
 
 
 
