@@ -7,6 +7,11 @@
 
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
+<br>
+
+![](https://github-widgetbox.vercel.app/api/profile?username=sulaimanbiswas&data=followers,repositories,stars,commits&theme=nautilus)
+
+---
 
 # 42 Cursus
 <p align="center">
