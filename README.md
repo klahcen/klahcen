@@ -8,8 +8,7 @@
 
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
 <br>
-
-![](https://github-widgetbox.vercel.app/api/profile?username=klahcen=followers,repositories,stars,commits&theme=nautilus)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?klahcen=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
