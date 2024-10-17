@@ -72,7 +72,7 @@
 ---
 ### GitHub Contribution Graph (Snake):
 
-![snake gif](https://github.com/klahcen/klahcen/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/sulaimanbiswas/sulaimanbiswas/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=klahcen&&style=flat-square" align="center" />
 
