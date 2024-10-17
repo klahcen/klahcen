@@ -70,6 +70,9 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=klahcen&bg_color=070e07&color=00fa11&line=0ed4d8&point=fffafa&area=true&hide_border=true "Activity Graph")
 
 ---
+### GitHub Contribution Graph (Snake):
+
+![snake gif](https://github.com/klahcen/klahcen/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=klahcen&&style=flat-square" align="center" />
 
