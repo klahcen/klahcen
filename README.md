@@ -10,8 +10,6 @@
 
 <br>
 
-![](https://github-widgetbox.vercel.app/api/profile?username=klahcen&data=followers,repositories,stars,commits&theme=nautilus)
-
 ---
 
 ### Connect with me
